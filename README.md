@@ -63,7 +63,6 @@ Contoh Dataset
 Berikut adalah contoh dataset sederhana (simpan sebagai data.csv):
 
 csv
-Salin
 Edit
 Age,Salary,Purchased
 22,20000,0
@@ -76,12 +75,7 @@ Penanganan otomatis untuk nilai kosong.
 Visualisasi dataset dengan histogram.
 Sidebar untuk navigasi pengaturan aplikasi.
 Deployment
-Anda dapat melakukan deployment aplikasi ini ke Streamlit Community Cloud dengan langkah-langkah berikut:
-
-Buat repository di GitHub dan upload file aplikasi (app.py) dan dataset Anda.
-Buka Streamlit Community Cloud dan login dengan akun GitHub Anda.
-Pilih repository Anda dan klik Deploy.
-Aplikasi Anda akan tersedia secara online dan dapat diakses oleh siapa saja.
+https://a11202214733.streamlit.app/
 Kontributor
 Dibuat oleh:
 
